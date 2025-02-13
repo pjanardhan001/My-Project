@@ -1,5 +1,5 @@
 <?php
-$host = '147.93.105.140';
+$host = 'localhost';
 $dbname = 'ecommerce';
 $user = 'root';
 $password = 'jana@PJR3198';
