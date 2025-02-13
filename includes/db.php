@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
-$dbname = 'e commerce';
+$dbname = 'ecommerce';
 $user = 'root';
-$password = '';
+$password = 'jana@PJR3198';
 
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $user, $password);
